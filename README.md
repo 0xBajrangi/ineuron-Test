@@ -1,2 +1,3 @@
 # ineuron-Test
-Python sessions assignments
+Python sessions assignment.
+instructor:Krish Naik
